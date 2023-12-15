@@ -1,5 +1,4 @@
-# intro-prog
-Introductory Programming Project Group 1
+# Humanitarian Aid Management System README
 
 ### Dependencies
 - Requires `python` version `3.12.0` or above
